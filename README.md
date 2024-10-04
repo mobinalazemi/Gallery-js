@@ -1,7 +1,7 @@
 # Gallery-First js project
 
 
-- [Demo Project](https://github.com/mobinalazemi/Gallery-js/blob/main/index.html)
+- [Demo Project](https://mobinalazemi.github.io/Gallery-js/)
 
 -Coded by Mobina Lazemi
 
